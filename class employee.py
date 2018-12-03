@@ -1,6 +1,6 @@
 class Employee:
     def __init__(self):
-        self.empid=24
+        self.empid=25
         self.name="ifraz"
         self.salary=500000
 
